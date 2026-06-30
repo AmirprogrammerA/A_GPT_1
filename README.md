@@ -28,7 +28,7 @@ Make sure you have Python 3.10 or higher installed on your system.
 
 Open your terminal or command prompt and run:
 
-git clone https://github.com/AmirprogrammerA/A_gpt.git
+git clone https://github.com/AmirprogrammerA/A_gpt1.git
 cd A_gpt
 
 
