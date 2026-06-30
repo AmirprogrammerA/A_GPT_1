@@ -63,8 +63,9 @@ Since this project is pre-configure, you can get it running in seconds!
 - **pip** (Python package manager)
 
 ### 2️⃣ Installation
-```bash
+
 # 1. Clone the repository
+
 git clone https://github.com/AmirprogrammerA/A_GPT_1.git
 
 # 2. Navigate into the project folder
@@ -92,10 +93,12 @@ Flask: The lightweight web framework used for the backend.
 
 openai: To facilitate communication with the AI gateway.
 
- 📧 Contact & Support
+📧 Contact & Support
 
 If you have any questions, need help, or want to suggest improvements, feel
  free to reach out! I’m happy to assist.
+
+
 
 
 -----------
