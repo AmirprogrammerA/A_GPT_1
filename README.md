@@ -97,8 +97,9 @@ openai: To facilitate communication with the AI gateway.
 If you have any questions, need help, or want to suggest improvements, feel
  free to reach out! I’m happy to assist.
 
-📧 Email:  amirprogrammer1h2ol@gmail.com
 
+-----------
+📧 Email:  amirprogrammer1h2ol@gmail.com
 
 
 
